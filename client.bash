@@ -1,1 +1,1 @@
-java socket.Client
+java sockets.Client

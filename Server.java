@@ -34,7 +34,7 @@ public class Server {
 				this.close();
 			}
 		};
-		System.out.println("Port 12345 is now open.");
+		System.out.println("Port 8080 is now open.");
 
 		while (true) {
 			// accepts a new client
